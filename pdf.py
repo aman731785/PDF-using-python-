@@ -1,4 +1,4 @@
-GNU nano 8.4                                            pdf.py
+                                        pdf.py
 import re
 import os
 from fpdf import FPDF

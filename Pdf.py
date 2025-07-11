@@ -1,4 +1,3 @@
-                                        pdf.py
 import re
 import os
 from fpdf import FPDF
